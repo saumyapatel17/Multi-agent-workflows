@@ -66,7 +66,7 @@ The code is organized as follows:
 ## Example Workflow
 
 1. **Researcher Agent**: 
-   - Fetches Malaysia's GDP data over the last 5 years using the Tavily Search API.
+   - Fetches GDP data over the last 5 years using the Tavily Search API.
    
 2. **Chart Generator Agent**:
    - Generates a Python chart (line graph) based on the retrieved GDP data.
