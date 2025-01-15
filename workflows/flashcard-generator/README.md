@@ -134,14 +134,6 @@ graph TB
 
 ---
 
-## Project Structure
-- `v1_basic_agent.py`: Single-agent implementation.
-- `v2_dual_agents.py`: Two-agent system with QA and Reviewer.
-- `v3_orchestrated_agents.py`: Multi-agent system with orchestration.
-- `v4_enhanced_agents.py`: Enhanced multi-agent system with specialized agents.
-
----
-
 ## Getting Started
 
 ### Prerequisites
