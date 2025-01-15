@@ -25,16 +25,7 @@ This repository contains several projects that exemplify multi-agent workflows:
      - [LlamaIndex](https://llamaindex.ai/) for text parsing and analysis.
      - Multi-agent collaboration for quality assurance.
 
-### 2. **Self-Reflecting AI Agent**
-   - **Description**: Demonstrates a self-reflecting AI system where a generator agent creates content, and a reflector agent critiques and improves it.
-   - **Features**:
-     - Generator and reflector agents utilize the same LLM but operate with distinct prompts.
-     - Iterative improvement through cyclical feedback.
-   - **Technologies**:
-     - LangGraph for agent orchestration.
-     - Shared scratchpad for inter-agent communication.
-
-### 3. **Collaborative Multi-Agent Workflow**
+### 2. **Collaborative Multi-Agent Workflow**
    - **Description**: A more complex system featuring multiple agents, each with a specific role, working together on a shared task.
    - **Features**:
      - Dynamic agent connections modeled as a graph.
